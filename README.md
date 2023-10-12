@@ -1,5 +1,3 @@
-# Crud-Application-with-React-nativ-Expo
- 
 # CRUD Application with React Native and Node.js
 
 [[Demo]](https://rrtutorials.com/crud-application-with-react-native-and-nodejs/)
