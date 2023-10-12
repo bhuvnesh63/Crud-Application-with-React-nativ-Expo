@@ -2,7 +2,7 @@
  
 # CRUD Application with React Native and Node.js
 
-[![Demo]](https://rrtutorials.com/crud-application-with-react-native-and-nodejs/)
+[[Demo]](https://rrtutorials.com/crud-application-with-react-native-and-nodejs/)
 
 Welcome to our comprehensive guide on building a dynamic CRUD (Create, Read, Update, Delete) application with React Native and Node.js. If you're ready to elevate your app development skills and create fully functional, data-driven mobile apps, you're in the right place.
 
